@@ -9,3 +9,4 @@ dir2/
 dir3/
 list.txt
 lorem.txt
+This is a test to append the data to the file
